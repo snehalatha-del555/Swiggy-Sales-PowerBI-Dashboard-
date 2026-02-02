@@ -15,7 +15,7 @@ Analyzed 20,000+ real sales records using SQL and built an interactive Power BI 
 - Customer ordering behavior patterns
 
 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard] screenshots.
 
 📁 Files Included
 - Swiggy_Sales_Dashboard.pbix
